@@ -1,0 +1,5 @@
+# Read more about SSH config files: https://linux.die.net/man/5/ssh_config
+Host project-sprint-8
+    HostName 158.160.63.90
+    User yc-user
+    IdentityFile /Users/ola/Downloads/ssh_private_key_1
